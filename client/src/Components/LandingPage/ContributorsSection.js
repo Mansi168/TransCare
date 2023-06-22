@@ -9,8 +9,8 @@ const Contributors = styled.section`
 `;
 
 const Title = styled.h2`
-  font-size: 32px;
-  color: #6c567b;
+  font-size: 42px;
+  color: #000000;
   margin-bottom: 48px;
 `;
 

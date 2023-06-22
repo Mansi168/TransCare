@@ -7,26 +7,26 @@ const Hero = styled.section`
   align-items: center;
   justify-content: center;
   height: 80vh;
-  background-color: #f7e8e8;
+  background-color: #d4afb9;
 `;
 
 const Heading = styled.h1`
   font-size: 48px;
-  color: #6c567b;
-  margin-bottom: 24px;
+  color: #F5F0F0;
+  margin-bottom: 0px;
 `;
 
 const Subheading = styled.h2`
   font-size: 24px;
-  color: #a96da3;
+  color: #F5F0F0;
   margin-bottom: 48px;
 `;
 
 const HeroSection = () => {
   return (
     <Hero>
-      <Heading>Welcome to Pastel Land!</Heading>
-      <Subheading>A magical world of pastel colors</Subheading>
+      <Heading>TransCare</Heading>
+      <Subheading>Trans rights are human rights, inclusion is our commitment.</Subheading>
     </Hero>
   );
 };

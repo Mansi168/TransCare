@@ -48,7 +48,7 @@ padding: 0 30px;
 const ServiceCard = styled.div`
 align-items: center;
 display: flex;
-background-color: #ffffff;
+background-color: #F5F0F0;
 flex-direction: column;
 justify-content: flex-start;
 border-radius: 10px;
@@ -88,7 +88,7 @@ const Button = styled.button`
   padding: 12px 24px;
   font-size: 18px;
   background-color: #000000;
-  color: #ffffff;
+  color: #F5F0F0;
   border: none;
   border-radius: 4px;
   cursor: pointer;

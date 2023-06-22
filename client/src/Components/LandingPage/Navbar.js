@@ -5,7 +5,7 @@ const Nav = styled.nav`
 display: flex;
 justify-content: space-between;
 padding: 16px;
-background-color: #ffffff;
+background-color: #F5F0F0;
 `;
 
 const Logo = styled.div`

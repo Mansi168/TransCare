@@ -4,13 +4,13 @@ import Sneha from '../../images/Contributor-1.png';
 
 const Contributors = styled.section`
   padding: 50px;
-  background-color: #ffffff;
+  background-color: #9CADCE;
   text-align: center;
 `;
 
 const Title = styled.h2`
-  font-size: 32px;
-  color: #6c567b;
+  font-size: 42px;
+  color: #000000;
   margin-bottom: 48px;
 `;
 
@@ -54,8 +54,7 @@ const ContributorsSection = () => {
           <Image src={Sneha} />
           <Heading>SNEHA CHAUHAN</Heading>
           <Paragraph>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a ligula et nisl
-            ultrices vestibulum ac a arcu.
+          Efficient Coder | Embracing Diligence and Critical Thinking | Mindset for Growth, Honesty at Core.
           </Paragraph>
         </ContributorBox>
         <ContributorBox>

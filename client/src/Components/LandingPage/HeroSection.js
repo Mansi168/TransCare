@@ -128,7 +128,6 @@ import { Link } from "react-router-dom";
  const ArrowRight = styled(MdKeyboardArrowRight)`
     margin-left: 8px;
     font-size: 20px;
-
 `;
 
 
@@ -156,6 +155,7 @@ const HeroSection = () => {
   
   
   return (
+
     <HeroContainer id="home">
       <HeroBg>
       <ImageBg src={Background}type='image/jpg' />
@@ -183,6 +183,7 @@ const HeroSection = () => {
         </HeroBtnWrapper>
       </HeroContent>
     </HeroContainer>
+
   );
 };
 

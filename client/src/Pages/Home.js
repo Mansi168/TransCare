@@ -3,6 +3,7 @@ import Navbar from '../Components/LandingPage/Navbar';
 import HeroSection from '../Components/LandingPage/HeroSection';
 import ServicesSection from '../Components/LandingPage/ServicesSection';
 import ContributorsSection from '../Components/LandingPage/ContributorsSection';
+import Footer from '../Components/LandingPage/Footer';
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
         <HeroSection />
         <ServicesSection />
         <ContributorsSection />
+        <Footer />
     </>
   )
 }

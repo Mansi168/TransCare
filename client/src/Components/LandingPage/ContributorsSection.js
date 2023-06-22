@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import Sneha from '../../images/Contributor-1.png';
-
+import Monalika from '../../images/Contributor-2.png'
 const Contributors = styled.section`
   padding: 50px;
   background-color: #9CADCE;
@@ -58,8 +58,8 @@ const ContributorsSection = () => {
           </Paragraph>
         </ContributorBox>
         <ContributorBox>
-          <Image src="Contributor-icon-2.png" alt="Contributor Icon" />
-          <Heading>Contributor 2</Heading>
+          <Image src={Monalika} />
+          <Heading>MONALIKA PATNAIK</Heading>
           <Paragraph>
             Sed eu lectus varius, dapibus nulla at, molestie odio. Maecenas id feugiat arcu.
           </Paragraph>

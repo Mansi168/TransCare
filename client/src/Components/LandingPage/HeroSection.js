@@ -78,7 +78,7 @@ import { Link } from "react-router-dom";
     font-size: 3.6rem;
     line-height: 1.2;
     font-weight: 600;
-    color: white;
+    color: black;
     @media screen and (max-width: 768px) {
         font-size: 40px;
     }
@@ -93,7 +93,7 @@ import { Link } from "react-router-dom";
     font-size: 2.4rem;
     font-weight: 500;
     font-family: 'Montserrat', sans-serif;
-    color: #fff;
+    color: black;
     text-align: center; 
     max-width: 600px;
 

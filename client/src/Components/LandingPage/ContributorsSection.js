@@ -2,8 +2,10 @@ import React from 'react';
 import styled from 'styled-components';
 import Sneha from '../../images/Contributor-1.png';
 import Monalika from '../../images/Contributor-2.png'
+
+
 const Contributors = styled.section`
-  padding: 50px;
+  padding: 30px;
   background-color: #9CADCE;
   text-align: center;
 `;
@@ -17,30 +19,37 @@ const Title = styled.h2`
 const ContributorGrid = styled.div`
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  margin: auto;
   gap: 24px;
 `;
 
 const ContributorBox = styled.div`
   padding: 14px;
-  border: 1px solid #6c567b;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 8px;
+  background-color: #ffffff;
+  &:hover {
+    transform: scale(1.05);
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+  }
 `;
 
 const Image = styled.img`
-  width: 200px;
+  width: 250px;
   height: 180px;
-  margin-bottom: 2px;
+  margin: 5px;
 `;
 
 const Heading = styled.h3`
   font-size: 24px;
-  color: #6c567b;
+  color: #000000;
   margin: auto;
 `;
 
 const Paragraph = styled.p`
   font-size: 18px;
-  color: #6c567b;
+  color: #000000;
   margin: auto;
 `;
 

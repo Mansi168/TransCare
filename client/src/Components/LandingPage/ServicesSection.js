@@ -62,6 +62,7 @@ transition: all 0.2s ease-in-out;
   transform: scale(1.02);
   transition: all 0.2s ease-in-out;
   cursor: pointer;
+}
 `;
 
 const Image = styled.img`

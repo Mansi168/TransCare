@@ -110,7 +110,7 @@ const FooterText = styled.p`
 `
 
 const FooterForm = styled.form`
-    color : white;
+    color : #F5F0F0;
     padding: 1rem;
     height: 30;
 
@@ -133,7 +133,7 @@ export const FooterLink = styled(Link)`
   font-size: 14px;
 
   &:hover {
-    color: #01bf71;
+    color: #F5F0F0;
     transition: 0.3s ease-out;
   }
 

@@ -8,6 +8,7 @@ import {Link as LinkR} from 'react-router-dom';
 import {Link as LinkS} from 'react-scroll';
 
 const Nav = styled.nav`
+
 	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 	height: 80px;
 	margin-top: -80px;
@@ -22,6 +23,7 @@ const Nav = styled.nav`
 	@media screen and (max-width: 960px) {
 		transition: 0.8s all ease;
 	}
+
 `;
 
  const NavbarContainer = styled.div`

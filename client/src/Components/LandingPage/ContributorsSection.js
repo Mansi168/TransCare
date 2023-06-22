@@ -54,8 +54,7 @@ const ContributorsSection = () => {
           <Image src={Sneha} />
           <Heading>SNEHA CHAUHAN</Heading>
           <Paragraph>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a ligula et nisl
-            ultrices vestibulum ac a arcu.
+          Efficient Coder | Embracing Diligence and Critical Thinking | Mindset for Growth, Honesty at Core.
           </Paragraph>
         </ContributorBox>
         <ContributorBox>

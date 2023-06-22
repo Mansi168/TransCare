@@ -4,7 +4,7 @@ import Sneha from '../../images/Contributor-1.png';
 
 const Contributors = styled.section`
   padding: 50px;
-  background-color: #ffffff;
+  background-color: #9CADCE;
   text-align: center;
 `;
 

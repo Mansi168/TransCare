@@ -3,13 +3,13 @@ import { Link } from 'react-scroll'
 
 export const Button = styled(Link)`
     border-radius: 50px;
-    background: ${({ primary }) => (primary ? '#d4afb9' : '#d4afb9 ')};
+    background: ${({ primary }) => (primary ? '#52b2cf' : '#52b2cf ')};
     white-space: nowrap;
     color: ${({ dark }) => (dark ? '#fff' : '#fff')};
     padding: ${({ big }) => (big ? '14px 48px' : '12px 30px')};
     font-size: ${({ fontBig }) => (fontBig ? '20px' : '16px')};
     outline: none;
-    border: 2px solid #d4afb9;
+    border: 2px solid #52b2cf;
     box-shadow: 0 3px 0 black, 0px 3px 6px #fff;
     // Issue #1: Type in cursor spelling was there earlier
     // Issue #1 Fixed: Corrected the spelling of cursor.

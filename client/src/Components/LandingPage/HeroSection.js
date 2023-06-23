@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import Typed from "typed.js";
-import Background from "../../images/bg.jpg";
+import Background from "../../images/back6.jpg";
 import styled from 'styled-components';
 import { MdArrowForward, MdKeyboardArrowRight } from 'react-icons/md';
 import { motion } from 'framer-motion';
@@ -90,19 +90,19 @@ import { Link } from "react-router-dom";
 `;
 
  const HeroP = styled.h2`
-    font-size: 2.4rem;
-    font-weight: 500;
+    font-size: 1.8rem;
+    font-weight: 400;
     font-family: 'Montserrat', sans-serif;
     color: black;
     text-align: center; 
     max-width: 600px;
 
     @media screen and (max-width: 768px) {
-        font-size: 24px;
+        font-size: 20px;
     }
 
     @media screen and (max-width: 480px) {
-        font-size: 18px;
+        font-size: 15px;
     }
 
 `;
@@ -165,7 +165,7 @@ const HeroSection = () => {
         <HeroH1>
           <span ref={el} style={{ display: "inline-block" }} />
         </HeroH1>
-        <HeroP>Register today and seize a fresh start for your life!</HeroP>
+        <HeroP>Register today and embrace a supportive transgender community where you can connect, share, and thrive!</HeroP>
         <HeroBtnWrapper>
           <Button
             as={Link}

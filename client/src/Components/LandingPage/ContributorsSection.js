@@ -5,6 +5,7 @@ import Monalika from '../../images/Contributor-2.png'
 import Mansi from '../../images/contributor-3.jpg'
 
 
+
 const Contributors = styled.section`
   padding: 30px;
   background-color: #9CADCE;

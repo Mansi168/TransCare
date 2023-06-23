@@ -1,7 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 import Library from '../../images/Library_image.jpg'
-
+import CommunityForum from '../../images/forum.jpg'
+import GovtPolicies from '../../images/policies.jpg'
 
 const Services = styled.section`
   padding: 30px;
@@ -116,7 +117,7 @@ const ServicesSection = () => {
           <Button>Learn More</Button>
         </ServiceCard>
         <ServiceCard>
-          <Image src="service-icon-2.png" alt="Service Icon" />
+          <Image src={CommunityForum} alt="Service Icon" />
           <Heading>Community Forum </Heading>
           <Paragraph>
             Sed eu lectus varius, dapibus nulla at, molestie odio. Maecenas id
@@ -125,7 +126,7 @@ const ServicesSection = () => {
           <Button>Learn More</Button>
         </ServiceCard>
         <ServiceCard>
-          <Image src="service-icon-3.png" alt="Service Icon" />
+          <Image src={GovtPolicies} alt="Service Icon" />
           <Heading>Service 3</Heading>
           <Paragraph>
             Quisque sit amet risus ut metus consectetur feugiat. Morbi facilisis

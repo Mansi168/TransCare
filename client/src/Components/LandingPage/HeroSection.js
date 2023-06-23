@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import Typed from "typed.js";
-import Background from "../../images/back6.jpg";
+import Background from "../../images/bg2.jpg";
 import styled from 'styled-components';
 import { MdArrowForward, MdKeyboardArrowRight } from 'react-icons/md';
 import { motion } from 'framer-motion';

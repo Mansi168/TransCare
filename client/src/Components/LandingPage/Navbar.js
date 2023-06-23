@@ -145,7 +145,7 @@ const Nav = styled.nav`
         position: absolute;
         bottom: 0;
         left: 0;
-        background-color: #28b86b;
+        background-color: black;
         transition: all 0.3s ease-in;
     }
 
@@ -154,7 +154,7 @@ const Nav = styled.nav`
     }
 
     &:hover {
-        color: #28b86b;
+        color: black;
     }
 
     &.active {
@@ -176,7 +176,7 @@ const Nav = styled.nav`
 
  const NavBtnLink = styled(LinkR)`
     border-radius: 50px;
-    background: #d4afb9;
+    background: #52B2CF;
     white-space: nowrap;
     padding:10px 22px;
     color: #010606;

@@ -109,28 +109,25 @@ const ServicesSection = () => {
       <ServiceGrid>
         <ServiceCard>
           <Image src={Library} alt="Service Icon" />
-          <Heading>Library</Heading>
+          <Heading>TransBookshelf</Heading>
           <Paragraph>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a ligula
-            et nisl ultrices vestibulum ac a arcu.
+          Empowering Trans voices through Knowledge , Stories and embracing Trans literacy.
           </Paragraph>
           <Button>Learn More</Button>
         </ServiceCard>
         <ServiceCard>
           <Image src={CommunityForum} alt="Service Icon" />
-          <Heading>Community Forum </Heading>
+          <Heading>TransTalk </Heading>
           <Paragraph>
-            Sed eu lectus varius, dapibus nulla at, molestie odio. Maecenas id
-            feugiat arcu.
+          Embrace Your Authentic Self,connecting Transgender Souls, Sharing Stories.
           </Paragraph>
           <Button>Learn More</Button>
         </ServiceCard>
         <ServiceCard>
           <Image src={GovtPolicies} alt="Service Icon" />
-          <Heading>Service 3</Heading>
+          <Heading>TransPolicy Hub</Heading>
           <Paragraph>
-            Quisque sit amet risus ut metus consectetur feugiat. Morbi facilisis
-            justo ut cursus cursus.
+          Navigating Government Policies for Transgender Rights and Equality.
           </Paragraph>
           <Button>Learn More</Button>
         </ServiceCard>

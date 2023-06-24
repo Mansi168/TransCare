@@ -3,6 +3,11 @@ import {Box, Center, Input , Heading, FormLabel, FormControl, FormErrorMessage} 
 
 const Signin = () => {
   return (
+<>
+    <div>
+      <h1>signin</h1>     
+    </div>
+
     <Center w="100%" h="100vh">
       <Box mx="1" maxW="md" p="9" borderWidth="1px" borderRadius="lg">
         <Heading mb="4" size="lg" textAlign="center">
@@ -23,6 +28,7 @@ const Signin = () => {
             </form>
         </Box>
     </Center>
+</>
   )
 }
 

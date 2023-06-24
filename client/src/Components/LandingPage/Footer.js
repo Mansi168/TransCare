@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 // Footer container
 const FooterContainer = styled.section`
-  background-color:#52B2CF;
+  background-color:#FF9494;
   padding-top: 3rem;
   padding-bottom: 2.5rem;
   z-index: 99;

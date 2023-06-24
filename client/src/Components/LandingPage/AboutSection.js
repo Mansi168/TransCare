@@ -31,8 +31,9 @@ const homeObjOne = {
 
 const AboutContainer = styled.div`
     color : var(--text-clr);
-    background: ${({lightBg})=> (lightBg ? '#f9f9f9' : '#010606')};
-    background : var(--bg-clr);
+    background : #FFF5E4;
+    //background: ${({lightBg})=> (lightBg ? '#f9f9f9' : '#010606')};
+    //background : var(--bg-clr);
     @media screen and (max-width: 768px){
         padding: 100px 0;
     }

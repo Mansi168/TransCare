@@ -3,8 +3,7 @@ import React from 'react'
 const SignIn = () => {
   return (
     <div>
-      <Signup />
-    </div>
+      <h1>signin</h1>     </div>
   )
 }
 

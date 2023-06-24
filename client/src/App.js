@@ -2,7 +2,7 @@ import React from 'react'
 import Home from './Pages/Home';
 import './App.css';
 import { HashRouter, Routes, Route} from 'react-router-dom';
-import SignIn from 'Components/Auth/Signin';
+import SignIn from './Components/Auth/Signin';
 
 function App() {
   return (

@@ -3,6 +3,9 @@ import styled from "styled-components";
 import Library from '../../images/Library_image.jpg'
 import CommunityForum from '../../images/forum.jpg'
 import GovtPolicies from '../../images/policies.jpg'
+import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
+
 
 const Services = styled.section`
   padding: 30px;
@@ -103,17 +106,22 @@ const Button = styled.button`
 `;
 
 const ServicesSection = () => {
+//   const navigate = useNavigate();
+// const handleLibClick = () => {
+//   navigate("/library");
+// }
   return (
     <Services>
       <Title>Our Services</Title>
       <ServiceGrid>
         <ServiceCard>
+          
           <Image src={Library} alt="Service Icon" />
           <Heading>TransBookshelf</Heading>
           <Paragraph>
           Empowering Trans voices through Knowledge , Stories and embracing Trans literacy.
           </Paragraph>
-          <Button>Learn More</Button>
+          <Link to="./library"> <Button >Learn More</Button></Link>
         </ServiceCard>
         <ServiceCard>
           <Image src={CommunityForum} alt="Service Icon" />

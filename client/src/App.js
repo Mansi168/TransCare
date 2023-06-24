@@ -1,9 +1,10 @@
+
 import React from 'react'
 import './App.css';
 import { HashRouter, Routes, Route } from 'react-router-dom';
 import { AppProvider } from './context.';
 import Home from './Pages/Home';
-
+import { ChakraProvider } from '@chakra-ui/react';
 import Library from './Pages/library';
 
 import Navbar from './Components/LandingPage/Navbar';
@@ -12,6 +13,7 @@ import BookList from "./Components/BookList/BookList";
 
 function App() {
   return (
+//     <ChakraProvider>
     <AppProvider>
     <HashRouter>
       <Navbar/>
@@ -25,6 +27,8 @@ function App() {
      </Routes>
    </HashRouter>
    </AppProvider>
+// </ChakraProvider>
+
   );
 }
 

@@ -1,20 +1,21 @@
 import React from 'react';
+import { ChakraProvider } from '@chakra-ui/react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './Pages/Home';
-import './App.css';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import SigninPage from './Pages/SignIn';
 import Signup from './Components/Auth/Signup';
 
-
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/login" element={<SigninPage />} />
-        <Route path="/signup" element={<Signup />} />
-      </Routes>
-    </BrowserRouter>
+    <ChakraProvider>
+      <Router>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/signin" element={<SigninPage />} />
+          <Route path="/signup" element={<Signup />} />
+        </Routes>
+      </Router>
+    </ChakraProvider>
   );
 }
 

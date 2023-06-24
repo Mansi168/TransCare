@@ -19,7 +19,7 @@ const Signin = () => {
                     <Input type="password" placeholder="********" />
                     <FormErrorMessage>Invalid Password</FormErrorMessage>
                 </FormControl>
-                <button mt="4" type="submit" colorScheme="teal">Sign In</button>
+                <button type="submit">Log In</button>
             </form>
         </Box>
     </Center>

@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
-
 import { FaBars } from 'react-icons/fa';
-
 import { useNavigate } from "react-router-dom";
 import styled from 'styled-components';
 import {Link as LinkR} from 'react-router-dom';
@@ -59,7 +57,7 @@ const Nav = styled.nav`
 		);
 		mask-size: 200%;
 		animation: shine 3s infinite;
-		color: #000000;
+		color: #52B2CF;
 	}
 
 	@keyframes shine {
@@ -154,11 +152,11 @@ const Nav = styled.nav`
     }
 
     &:hover {
-        color: black;
+        color: #52B2CF;
     }
 
     &.active {
-        border-bottom: 3px solid #01bf71;
+        border-bottom: 3px solid #52B2CF;
     }
 `;
 

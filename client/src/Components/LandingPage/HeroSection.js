@@ -47,6 +47,7 @@ import { Link } from "react-router-dom";
     width: 100%;
     height: 100%;
     background: #232a34;
+    filter: brightness(0.5); 
 `;
 
  const HeroContent = motion(styled.div`
@@ -78,7 +79,7 @@ import { Link } from "react-router-dom";
     font-size: 3.6rem;
     line-height: 1.2;
     font-weight: 600;
-    color: black;
+    color: white;
     @media screen and (max-width: 768px) {
         font-size: 40px;
     }
@@ -93,7 +94,7 @@ import { Link } from "react-router-dom";
     font-size: 1.8rem;
     font-weight: 400;
     font-family: 'Montserrat', sans-serif;
-    color: black;
+    color: white;
     text-align: center; 
     max-width: 600px;
 

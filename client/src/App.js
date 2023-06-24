@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { AppProvider } from './context.';
 import Home from './Pages/Home';
-import { ChakraProvider } from '@chakra-ui/react';
+// import { ChakraProvider } from '@chakra-ui/react';
 import Library from './Pages/library';
 import Navbar from './Components/LandingPage/Navbar';
 import BookDetails from "./Components/BookDetails/BookDetails";
@@ -11,7 +11,7 @@ import BookList from "./Components/BookList/BookList";
 
 function App() {
   return (
-    <ChakraProvider>
+    // <ChakraProvider>
       <AppProvider>
         <Router>
           <Navbar />
@@ -23,7 +23,7 @@ function App() {
           </Routes>
         </Router>
       </AppProvider>
-    </ChakraProvider>
+    //  </ChakraProvider>
   );
 }
 

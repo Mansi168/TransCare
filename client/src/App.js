@@ -1,21 +1,34 @@
-import React from 'react';
-import { ChakraProvider } from '@chakra-ui/react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
+import React from 'react'
+import './App.css';
+import { HashRouter, Routes, Route } from 'react-router-dom';
+import { AppProvider } from './context.';
 import Home from './Pages/Home';
-import SigninPage from './Pages/SignIn';
-import Signup from './Components/Auth/Signup';
+import { ChakraProvider } from '@chakra-ui/react';
+import Library from './Pages/library';
+
+import Navbar from './Components/LandingPage/Navbar';
+import BookDetails from "./Components/BookDetails/BookDetails";
+import BookList from "./Components/BookList/BookList";
 
 function App() {
   return (
-    <ChakraProvider>
-      <Router>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/signin" element={<SigninPage />} />
-          <Route path="/signup" element={<Signup />} />
-        </Routes>
-      </Router>
-    </ChakraProvider>
+//     <ChakraProvider>
+    <AppProvider>
+    <HashRouter>
+      <Navbar/>
+   
+      <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path = "/library" element = {<Library />}></Route>
+      <Route path="/book" element={<BookList />} />
+     
+          <Route path = "/book/:id" element = {<BookDetails />} />
+     </Routes>
+   </HashRouter>
+   </AppProvider>
+// </ChakraProvider>
+
   );
 }
 

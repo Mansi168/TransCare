@@ -9,7 +9,7 @@ import Footer from '../Components/LandingPage/Footer';
 const Home = () => {
   return (
     <>
-        <Navbar />
+
         <HeroSection />
         <AboutSection/>
         <ServicesSection />

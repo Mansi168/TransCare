@@ -31,7 +31,7 @@ const homeObjOne = {
 
 const AboutContainer = styled.div`
     color : var(--text-clr);
-    background : #FFF5E4;
+    background : #d0c9ca;
     //background: ${({lightBg})=> (lightBg ? '#f9f9f9' : '#010606')};
     //background : var(--bg-clr);
     @media screen and (max-width: 768px){
@@ -74,11 +74,11 @@ const Column2 = styled.div`
 const TextWrapper = motion(styled.div`
     max-width: 540px;
     padding-top: 0;
-    padding-bottom: 60px;
+    padding-bottom: 50px;
 `);
 const TopLine = styled.p`
     opacity: 1;
-    color: #01bf71;
+    color: #52B2CF;
     font-size: 16px;
     line-height: 16px;
     font-weight: 700;

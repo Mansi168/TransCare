@@ -4,7 +4,7 @@ import Library from '../../images/Library_image.jpg'
 import CommunityForum from '../../images/forum.jpg'
 import GovtPolicies from '../../images/policies.jpg'
 import { Link } from "react-router-dom";
-import { useNavigate } from "react-router-dom";
+//import { useNavigate } from "react-router-dom";
 
 
 const Services = styled.section`
@@ -14,7 +14,7 @@ const Services = styled.section`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #FFE3E1;
+  background-color: #e3d0e0;
 
   @media screen and (max-width: 768px) {
     height: 1400px;

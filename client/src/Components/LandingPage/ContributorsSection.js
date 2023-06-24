@@ -9,13 +9,13 @@ import Kashish from '../../images/Contributor-4.jpeg'
 
 const Contributors = styled.section`
   padding: 30px;
-  background-color: #FFD1D1;
+  background-color: #616691;
   text-align: center;
 `;
 
 const Title = styled.h2`
   font-size: 42px;
-  color: #000000;
+  color: #F5F0F0;
   margin-bottom: 48px;
 `;
 
@@ -73,23 +73,21 @@ const ContributorsSection = () => {
           <Image src={Monalika} />
           <Heading>MONALIKA PATNAIK</Heading>
           <Paragraph>
-            Sed eu lectus varius, dapibus nulla at, molestie odio. Maecenas id feugiat arcu.
+          Diligent Coder | Embracing hardwork and Analytical Thinking | Believe in learning and growth.
           </Paragraph>
         </ContributorBox>
         <ContributorBox>
           <Image src={Mansi}  />
           <Heading>MANSI JANGRA</Heading>
           <Paragraph>
-            Quisque sit amet risus ut metus consectetur feugiat. Morbi facilisis justo ut
-            cursus cursus.
+          Proficient Coder | Incorporating Perseverance and Critical Thinking | Confident and Patient.
           </Paragraph>
         </ContributorBox>
         <ContributorBox>
           <Image src={Kashish} alt="Contributor Icon" />
           <Heading>Contributor 3</Heading>
           <Paragraph>
-            Quisque sit amet risus ut metus consectetur feugiat. Morbi facilisis justo ut
-            cursus cursus.
+          Agile programmer | Encompassing Self Confidence and Meticulousness | Punctual and Generous.
           </Paragraph>
         </ContributorBox>
       </ContributorGrid>

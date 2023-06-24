@@ -199,7 +199,7 @@ const SocialLogo = styled(Link)`
     mask-image: linear-gradient(-75deg, rgba(0,0,0,.6) 30%, #000 50%, rgba(0,0,0,.6) 70%);
     mask-size: 200%;
     animation: shine 2s infinite;
-    color: #01bf71;
+    color: #F5F0F0;
   }
 
   @keyframes shine {

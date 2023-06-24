@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import Sneha from '../../images/Contributor-1.png';
 import Monalika from '../../images/Contributor-2.png'
 import Mansi from '../../images/contributor-3.jpg'
+import Kashish from '../../images/Contributor-4.jpeg'
 
 
 
@@ -84,7 +85,7 @@ const ContributorsSection = () => {
           </Paragraph>
         </ContributorBox>
         <ContributorBox>
-          <Image src="Contributor-icon-3.png" alt="Contributor Icon" />
+          <Image src={Kashish} alt="Contributor Icon" />
           <Heading>Contributor 3</Heading>
           <Paragraph>
             Quisque sit amet risus ut metus consectetur feugiat. Morbi facilisis justo ut

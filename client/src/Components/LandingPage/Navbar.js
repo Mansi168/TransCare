@@ -198,7 +198,7 @@ const glassStyle = {
   background: "rgba(40, 30, 30, 0.3)",
   boxShadow: "0 4px 30px rgba(0, 0, 0, 0.1)",
   backdropFilter: "blur(7.1px)",
-  webkitBackdropFilter: "blur(7.1px)",
+//   WebkitBackdropFilter: "blur(7.1px)",
   border: "1px solid rgba(40, 30, 30, 0.18)",
 };
 

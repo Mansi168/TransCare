@@ -85,7 +85,7 @@ const ContributorsSection = () => {
         </ContributorBox>
         <ContributorBox>
           <Image src={Kashish} alt="Contributor Icon" />
-          <Heading>Kashish Bansal</Heading>
+          <Heading>KASHISH BANSAL</Heading>
           <Paragraph>
           Agile programmer | Encompassing Self Confidence and Meticulousness | Punctual and Generous.
           </Paragraph>

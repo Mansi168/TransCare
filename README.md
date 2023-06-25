@@ -20,8 +20,23 @@
 ## Components of Website
 <tr>
 <td>By creating TransCare, a web application that provides an online library and forum for connecting individuals of marginalized genders, we are taking a significant step towards addressing systemic barriers and biases. TransCare aims to foster a more equitable and harmonious world by offering the following:</td>
+  
+### 1.Landing page
+ <p>When you visit our website, you'll be greeted by an engaging landing page that captures the essence of our mission to enhance your experience. The carefully designed layout and captivating visuals create an immersive atmosphere, drawing you in and igniting your curiosity.</p>
+ 
+ ![image](https://github.com/Mansi168/TransCare/assets/94298791/ae5e87c6-7b92-4667-8ccd-dd7520718df5)
 
-1. Online Library: TransCare's online library serves as a comprehensive resource hub, providing a wealth of information on topics related to marginalized genders. It offers educational materials, articles, and guides that address the unique challenges faced by transgender, non-binary, and other marginalized individuals. The library is carefully curated to cover areas such as gender identity, healthcare, legal rights, mental well-being, and community support. By offering easy access to knowledge and empowering resources, TransCare equips individuals with the information they need to navigate their journeys and make informed decisions.
+ ![image](https://github.com/Mansi168/TransCare/assets/94298791/1b757a23-28e5-4d05-9307-d94e4f2c7724)
+
+ ![image](https://github.com/Mansi168/TransCare/assets/94298791/c5f37dac-bc0e-4e37-b185-e8503f22e5a4)
+
+
+
+### 2.Online Library
+<p> TransCare's online library serves as a comprehensive resource hub, providing a wealth of information on topics related to marginalized genders. It offers educational materials, articles, and guides that address the unique challenges faced by transgender, non-binary, and other marginalized individuals. The library is carefully curated to cover areas such as gender identity, healthcare, legal rights, mental well-being, and community support. By offering easy access to knowledge and empowering resources, TransCare equips individuals with the information they need to navigate their journeys and make informed decisions.</p>
+
+![image](https://github.com/Mansi168/TransCare/assets/94298791/3180df1b-ced9-4274-a442-75c9b2447e63)
+
 
 2. Forum for Connection: TransCare's forum acts as a virtual community space, allowing individuals of marginalized genders to connect with one another. It provides a safe and supportive environment where they can share their experiences, ask questions, and seek advice from peers who understand their unique challenges. The forum promotes dialogue, solidarity, and mutual support among individuals who may feel isolated or marginalized in their offline communities. Through this platform, individuals can find a sense of belonging and build connections with others who share similar experiences, fostering a strong and supportive community.
 
@@ -31,6 +46,8 @@
 
 By combining the features of an online library and a forum for connection, TransCare provides individuals of marginalized genders with a platform for knowledge, support, and empowerment. Through this web application, we aim to contribute to a more equitable and harmonious world by addressing the systemic barriers and biases that marginalized genders face. TransCare strives to create a space where individuals can access information, connect with others, and share their experiences, ultimately fostering a sense of community, understanding, and progress.
  </tr>
+  
+  ![pride-lgbt](https://github.com/Mansi168/TransCare/assets/94298791/0f7d1ee6-d9c8-4579-a89e-4bb6e0fbcdc9)
 
 ## How we built it
 Building the TransCare web application involved a systematic approach encompassing various development stages. Here's an overview of the process:
@@ -52,4 +69,6 @@ Building the TransCare web application involved a systematic approach encompassi
 
 
  ## <center> Contributors </center>
- 
+
+ ![image](https://github.com/Mansi168/TransCare/assets/94298791/ba33a07a-9819-4807-8e78-12407cde8a7b)
+

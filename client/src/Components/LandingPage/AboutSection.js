@@ -31,7 +31,7 @@ const homeObjOne = {
 
 const AboutContainer = styled.div`
     color : var(--text-clr);
-    background : #d0c9ca;
+    background : #F8B195;
     //background: ${({lightBg})=> (lightBg ? '#f9f9f9' : '#010606')};
     //background : var(--bg-clr);
     @media screen and (max-width: 768px){
@@ -78,7 +78,7 @@ const TextWrapper = motion(styled.div`
 `);
 const TopLine = styled.p`
     opacity: 1;
-    color: #52B2CF;
+    color: #355C7D;
     font-size: 16px;
     line-height: 16px;
     font-weight: 700;

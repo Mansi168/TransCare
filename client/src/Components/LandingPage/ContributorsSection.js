@@ -9,7 +9,7 @@ import Kashish from '../../images/Contributor-4.jpeg'
 
 const Contributors = styled.section`
   padding: 30px;
-  background-color: #616691;
+  background-color: #C06C84;
   text-align: center;
 `;
 

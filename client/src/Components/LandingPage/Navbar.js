@@ -174,10 +174,10 @@ const Nav = styled.nav`
 
  const NavBtnLink = styled(LinkR)`
     border-radius: 50px;
-    background: #52B2CF;
+    background: #355C7D;
     white-space: nowrap;
     padding:10px 22px;
-    color: #010606;
+    color: #F5F0F0;
     font-size: 16px;
     outline:none;
     border:none;

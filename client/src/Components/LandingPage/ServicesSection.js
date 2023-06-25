@@ -14,7 +14,7 @@ const Services = styled.section`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #e3d0e0;
+  background-color: #F67280;
 
   @media screen and (max-width: 768px) {
     height: 1400px;

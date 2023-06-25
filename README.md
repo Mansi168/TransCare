@@ -38,3 +38,11 @@ Building the TransCare web application involved a systematic approach encompassi
 1. Planning and Conceptualization: The first step was to define the goals and objectives of the TransCare web app. This included identifying the target audience, determining the core features and functionalities, and mapping out the overall user experience. Thorough planning and research were conducted to ensure that the web app would effectively serve the needs of marginalized genders.
 2. Design and User Interface: The next phase involved designing the web app's user interface (UI) and user experience (UX). This encompassed creating wireframes, prototypes, and mockups to visualize the layout, navigation, and overall aesthetics. Design considerations included accessibility, visual inclusivity, and intuitive navigation to provide an inclusive and user-friendly experience.
 3. Front-end Development: Front-end development involves translating the design concepts into a functional web application. This included writing HTML, CSS, and JavaScript, and ReactJs code to implement the user interface, navigation, and interactivity. Front-end frameworks, libraries, and tools were utilized to enhance the development process and ensure a responsive and optimized experience across different devices and screen sizes.
+
+ ## <center> Technology Stack Used </center>
+
+
+
+
+ ## <center> Contributors </center>
+ 

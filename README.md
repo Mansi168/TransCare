@@ -72,5 +72,6 @@ Building the TransCare web application involved a systematic approach encompassi
 
  ## <center> Contributors </center>
 
- ![image](https://github.com/Mansi168/TransCare/assets/94298791/ba33a07a-9819-4807-8e78-12407cde8a7b)
+ ![image](https://github.com/Mansi168/TransCare/assets/112632578/045a4350-a4d5-4d75-824d-e5861e486e27)
+
 

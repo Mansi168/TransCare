@@ -1,5 +1,6 @@
+![image](https://github.com/Mansi168/TransCare/assets/94298791/59348087-0bcf-4c93-aee4-1ccc3cdaf3fd)
+
 ## Introduction
-![image](https://github.com/Mansi168/TransCare/assets/112632578/b12d35e7-0334-46c7-81ea-52a0f864bfb0)
 
 <table style="border: none;">
   <tr>
@@ -27,5 +28,5 @@ With this project, we aspire to create a platform that not only addresses the sp
     <td><img src="https://media4.giphy.com/media/fYNy092DoKNpshv70U/giphy.gif?cid=ecf05e47lz7igg6cy6tfa9s1w1gq5j11vqulnd8umgl51nrl&ep=v1_gifs_search&rid=giphy.gif&ct=g"/></td>
   </tr>
 
-
+## Components of Website
 

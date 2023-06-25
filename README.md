@@ -21,7 +21,7 @@
 <tr>
 <td>By creating TransCare, a web application that provides an online library and forum for connecting individuals of marginalized genders, we are taking a significant step towards addressing systemic barriers and biases. TransCare aims to foster a more equitable and harmonious world by offering the following:</td>
   
-### 1.Landing page
+### Landing page
  <p>When you visit our website, you'll be greeted by an engaging landing page that captures the essence of our mission to enhance your experience. The carefully designed layout and captivating visuals create an immersive atmosphere, drawing you in and igniting your curiosity.</p>
  
  ![image](https://github.com/Mansi168/TransCare/assets/94298791/ae5e87c6-7b92-4667-8ccd-dd7520718df5)
@@ -32,19 +32,21 @@
 
 
 
-### 2.Online Library
-<p> TransCare's online library serves as a comprehensive resource hub, providing a wealth of information on topics related to marginalized genders. It offers educational materials, articles, and guides that address the unique challenges faced by transgender, non-binary, and other marginalized individuals. The library is carefully curated to cover areas such as gender identity, healthcare, legal rights, mental well-being, and community support. By offering easy access to knowledge and empowering resources, TransCare equips individuals with the information they need to navigate their journeys and make informed decisions.</p>
+## Key Features
+
+### Transbookshelf Library
+<p> TransCare includes a Transbookshelf library, which serves as an online resource hub for individuals seeking information related to sexual health, community experiences, and other relevant topics. The library contains a curated collection of articles, books, videos, and other media that provide valuable insights and knowledge. It covers various aspects of marginalized genders' lives, including health, identity, advocacy, and empowerment.</p>
 
 ![image](https://github.com/Mansi168/TransCare/assets/94298791/3180df1b-ced9-4274-a442-75c9b2447e63)
 
+### TransHub Forum
+<p>The TransHub Forum is a dedicated space within the web application that enables individuals from marginalized genders to connect, share experiences, and engage in meaningful discussions. It fosters a supportive and inclusive community where users can seek advice, offer support, and exchange information on a wide range of topics. The forum facilitates connection and networking among individuals who may face similar challenges or share common interests.</p>
 
-2. Forum for Connection: TransCare's forum acts as a virtual community space, allowing individuals of marginalized genders to connect with one another. It provides a safe and supportive environment where they can share their experiences, ask questions, and seek advice from peers who understand their unique challenges. The forum promotes dialogue, solidarity, and mutual support among individuals who may feel isolated or marginalized in their offline communities. Through this platform, individuals can find a sense of belonging and build connections with others who share similar experiences, fostering a strong and supportive community.
+### Government Policies
 
-3. Knowledge Sharing: TransCare encourages individuals to share their experiences, insights, and personal journeys. By providing a platform for marginalized genders to share their stories, TransCare helps amplify their voices and promotes a deeper understanding and empathy within society. Knowledge sharing creates opportunities for education, awareness, and empowerment, allowing individuals to learn from one another and challenge societal norms and biases together.
+<p>TransCare also provides information and resources regarding government policies relevant to marginalized genders. This feature aims to empower individuals by offering insights into legal frameworks, rights, and protections. Users can access up-to-date information about policies, legislation, and initiatives that directly impact their lives. This feature helps individuals navigate legal systems and advocate for their rights effectively.</p>
 
-4. Empowerment and Advocacy: TransCare not only offers resources and support but also promotes empowerment and advocacy. It encourages individuals to take an active role in their own well-being and rights. Through the platform, users can access information on advocacy initiatives, community organizations, and legal resources that can help them navigate challenges and promote change at both individual and systemic levels. TransCare aims to empower individuals to become advocates for themselves and their communities, driving positive change and fostering a more inclusive society.
-
-By combining the features of an online library and a forum for connection, TransCare provides individuals of marginalized genders with a platform for knowledge, support, and empowerment. Through this web application, we aim to contribute to a more equitable and harmonious world by addressing the systemic barriers and biases that marginalized genders face. TransCare strives to create a space where individuals can access information, connect with others, and share their experiences, ultimately fostering a sense of community, understanding, and progress.
+<p>TransCare combines these features to create a comprehensive platform that promotes knowledge sharing, community building, and empowerment within marginalized gender communities. By offering a diverse range of resources, a supportive forum, and information on government policies, TransCare strives to enhance the well-being and inclusivity of individuals from marginalized genders.</p>
  </tr>
   
   ![pride-lgbt](https://github.com/Mansi168/TransCare/assets/94298791/0f7d1ee6-d9c8-4579-a89e-4bb6e0fbcdc9)
